@@ -6,13 +6,13 @@
   - 📍 Doing
   - ❌ To Do
 
-## Estrutura e padrões📍
+## Estrutura e padrões✅
 * ✅ Configurando estrutura
 * ✅ Padrões de estilo
 * ✅ Configurando StatusBar
 * ✅ Configurando navegação
 * ✅ Densidade de pixel
-* 📍 Importando fontes externas
+* ✅ Importando fontes externas
 
 
 
