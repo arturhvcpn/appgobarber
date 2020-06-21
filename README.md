@@ -11,8 +11,8 @@
 * ✅ Padrões de estilo
 * ✅ Configurando StatusBar
 * ✅ Configurando navegação
-* 📍 Densidade de pixel
-* ❌ Importando fontes externas
+* ✅ Densidade de pixel
+* 📍 Importando fontes externas
 
 
 
