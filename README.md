@@ -21,8 +21,8 @@
 * ✅ Tela de cadastro
 * ✅ Integrando Unform
 * ✅ Usabilidade em formulários
-* 📍 Foco e preenchimento
-* ❌ Validação dos formulários
+* ✅ Foco e preenchimento
+* 📍 Validação dos formulários
 
 ## Conectando com a API ❌
 * ❌ Cadastro na aplicação
