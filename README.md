@@ -18,9 +18,9 @@
 ## Autenticação e cadastro 📍
 * ✅ Input & Button
 * ✅ Tela de autenticação
-* 📍 Tela de cadastro
-* ❌ Integrando Unform
-* ❌ Usabilidade em formulários
+* ✅ Tela de cadastro
+* ✅ Integrando Unform
+* 📍 Usabilidade em formulários
 * ❌ Foco e preenchimento
 * ❌ Validação dos formulários
 
