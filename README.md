@@ -20,8 +20,8 @@
 * ✅ Tela de autenticação
 * ✅ Tela de cadastro
 * ✅ Integrando Unform
-* 📍 Usabilidade em formulários
-* ❌ Foco e preenchimento
+* ✅ Usabilidade em formulários
+* 📍 Foco e preenchimento
 * ❌ Validação dos formulários
 
 ## Conectando com a API ❌
