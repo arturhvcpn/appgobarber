@@ -11,7 +11,7 @@ import getValidationErrors from '../../utils/getValidationErros';
 import Input from '../../components/Input';
 import Button from '../../components/Button';
 import logoImg from '../../assets/logo.png';
-
+import api from '../../services/api';
 import { Container, Title, BackToSignIn, BackToSignInText } from './styles';
 
 const SignUp: React.FC = () =>{
@@ -40,9 +40,14 @@ const SignUp: React.FC = () =>{
         abortEarly:false,
       });
 
-      // await api.post('/users',data);
+      await api.post('/users',data);
 
-      // history.push('/');
+      Alert.alert(
+        'Cadastro realizado com sucesso!',
+        'Você já pode fazer login na aplicação',
+        );
+
+      navigation.goBack();
 
 
     } catch (err) {
